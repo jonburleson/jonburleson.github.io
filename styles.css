@@ -12,14 +12,14 @@
     left: 0;
     background-color: #1a2029;
     overflow-x: hidden;
-    padding-top: 25 px;
-    border: 1px solid greenyellow;
+    padding-top: 50 px;
 }
 
 .sidebar a {
     padding: 6px 8px 6px 16px;
     font-size: 25px;
-    color: #feffed;
+    color: #fffffc;
+    display: block;
 }
 
 .content {
