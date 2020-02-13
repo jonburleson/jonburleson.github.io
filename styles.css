@@ -1,6 +1,10 @@
 .header {
     font-family: verdana;
     font-size: 200%;
+    top: 0;
+    left: 0;
+    position: fixed;
+    background-color: yellowgreen;
 }
 
 .sidebar {
@@ -8,7 +12,7 @@
     width: 145px;
     position: fixed;
     z-index: 1;
-    top: 0;
+    top: 200;
     left: 0;
     background-color: #1a2029;
     overflow-x: hidden;
@@ -23,5 +27,8 @@
 }
 
 .content {
-
+    padding-left: 145px;
+    position: fixed;
+    top: 200;
+    left: 145;
 }
