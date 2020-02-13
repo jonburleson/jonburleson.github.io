@@ -1,5 +1,7 @@
 <html>
 <head>
+  <title> jonburleson.github.io </title>
+  <meta name="author" content="Jonathan Jettenberger-Burleson">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
