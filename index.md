@@ -9,8 +9,13 @@
     <h1>Hello World</h1>
   </div>
   <div class="sidebar">
+    <!--
     <a href="https://github.com/jonburleson">GitHub Profile</a>
     <a href="https://www.linkedin.com/in/jonathan-jettenberger-burleson-633677126/">LinkedIn Profile</a>
+    -->
+    <a href="#About">About</a>
+    <a href="#Projects">Projects</a>
+    <a href="#Contact">Contact</a>
   </div>
   <div class="content">
     <h2>Current Projects:</h2>
