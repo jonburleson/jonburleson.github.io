@@ -1,8 +1,11 @@
 .header {
+    height: 200px;
+    width: 100%;
     font-family: verdana;
     font-size: 200%;
     top: 0;
     left: 0;
+    padding-left: 30px;
     position: fixed;
     background-color: yellowgreen;
 }
@@ -12,23 +15,23 @@
     width: 145px;
     position: fixed;
     z-index: 1;
-    top: 200;
+    top: 200px;
     left: 0;
     background-color: #1a2029;
     overflow-x: hidden;
-    padding-top: 50 px;
+    padding-top: 25px;
 }
 
 .sidebar a {
-    padding: 6px 8px 6px 16px;
+    padding: 10px 8px 6px 16px;
     font-size: 25px;
     color: #fffffc;
     display: block;
 }
 
 .content {
-    padding-left: 145px;
+    padding-left: 10px;
     position: fixed;
-    top: 200;
-    left: 145;
+    top: 200px;
+    left: 145px;
 }
