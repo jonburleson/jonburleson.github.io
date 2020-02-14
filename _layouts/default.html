@@ -23,9 +23,14 @@
 
       <div id="banner">
         <span id="logo"></span>
-
-        <a href="{{ site.github.repository_url }}" class="button fork"><strong>View Site On GitHub</strong></a>
-        <a href="https://github.com/jonburleson" class="button fork"><strong>Profile</strong></a>
+        <tr>
+            <td style="padding: 5px 10px">
+                <a href="{{ site.github.repository_url }}" class="button fork"><strong>View Site Code</strong></a>
+            </td>
+            <td style="padding: 5px 10px">
+                <a href="https://github.com/jonburleson" class="button fork"><strong>Profile</strong></a>
+            </td>
+        </tr>
         
         {% if site.show_downloads %}
           <div class="downloads">
