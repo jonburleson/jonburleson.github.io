@@ -2,3 +2,4 @@ theme: jekyll-theme-leap-day
 title: Hello, I'm Jonathan.
 description: Developer and Creator
 show_downloads: false
+future: true
