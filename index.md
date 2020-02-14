@@ -5,9 +5,6 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div class="header">
-    <h1>Hello World</h1>
-  </div>
   <div class="sidebar">
     <!--
     <a href="https://github.com/jonburleson">GitHub Profile</a>
